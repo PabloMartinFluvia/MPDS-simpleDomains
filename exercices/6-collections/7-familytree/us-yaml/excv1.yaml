@@ -1,0 +1,28 @@
+nodes:
+  - me
+  - father
+  - mother
+  - grandfather_father
+  - grandmother_father
+  - grandfather_mother
+  - grandmother_mother
+  # others nodes
+unions:
+  - union:
+      - father
+      - mother
+    descendences:
+      - me
+  - union:
+      - grandfather_father
+      - grandmother_father
+    descendences:
+      - father
+      # other descendences
+  - union:
+      - grandfather_mother
+      - grandmother_mother
+    descendences:
+      - mother
+      # other descendences
+  # others unions
