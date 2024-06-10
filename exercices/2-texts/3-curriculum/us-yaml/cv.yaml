@@ -1,0 +1,49 @@
+personalInfo:
+  name: Michelle Torres Quiroz
+  age: 25
+  adress: Av. Siempreviva No.17 Col.Anzures blablabla
+  telef: '55-34-45-95'
+  email: curriculum@gmail.com
+profile: bla bla bla bla
+studies:
+  - title: bla bla
+    insitution: bla bla
+    period: '2001-2005'
+  - title: blabla
+    institution: bla bla
+    period: '1996-2000'
+experiences:
+  - position: bla bla
+    startYear: 2000
+    endYear: 2011
+    countries:
+      - México
+  - position: bla bla
+    startYear: 2000
+    endYear: 2011
+    countries: []
+  - position: bla bla
+    startYear: 2008
+    endYear: 2011
+    countries: []
+  - position: bla bla
+    startYear: 2005
+    endYear: 2011
+    countries:
+      - España
+      - Estados Unidos
+      - México
+sofSkills:
+  - bla bla
+  - bla bla
+hardSkills:
+  - bla bla
+  - bla bla
+courses:
+  - name: bla bla
+    institution: bla bla
+    type: online
+    year: 2008
+languages:
+  - language: inglés
+    level: '90%'
