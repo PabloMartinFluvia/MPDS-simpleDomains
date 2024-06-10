@@ -1,0 +1,15 @@
+- day: LUNES
+  periods:
+    - start: 7:25 A.M.
+      end: 7:35 A.M.
+      activity: ACTIVIDADES PERMANENTES
+    - start: 7:35 A.M.
+      end: 8:10 A.M.
+      activity: COMUNICACIÓN
+    - start: 8:10 A.M.
+      end: 8:45 A.M.
+      activity: COMUNICACIÓN
+    # same schema
+- day: MARTES
+  # same schema
+# same schema
