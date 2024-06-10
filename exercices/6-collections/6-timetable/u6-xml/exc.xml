@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<timetable>
+    <range>Primaria</range>
+    <course>1ro</course>
+    <class> B </class>
+    <date month="Marzo" year="2019"/>
+    <days>
+        <day id="lunes">
+            <block>
+                <periodRef idref="p1"/>
+                <activityRef idref="ap"/>
+            </block>
+            <block>
+                <periodRef idref="p2"/>
+                <activityRef idref="co"/>
+            </block>
+            <block>
+                <periodRef idref="p3"/>
+                <activityRef idref="co"/>
+            </block>
+            <block>
+                <periodRef idref="p4"/>
+                <activityRef idref="rv"/>
+            </block>
+            <block>
+                <periodRef idref="p5"/>
+                <activityRef idref="ma"/>
+            </block>
+            <block>
+                <periodRef idref="p6"/>
+                <activityRef idref="rec"/>
+            </block>
+            <block>
+                <periodRef idref="p7"/>
+                <activityRef idref="ma"/>
+            </block>
+            <block>
+                <periodRef idref="p8"/>
+                <activityRef idref="ps"/>
+            </block>
+            <block>
+                <periodRef idref="p9"/>
+                <activityRef idref="tu"/>
+            </block>
+        </day>
+        <day id="martes">
+            <block>
+                <periodRef idref="p1"/>
+                <activityRef idref="ap"/>
+            </block>
+            <block>
+                <periodRef idref="p2"/>
+                <activityRef idref="ma"/>
+            </block>
+            <block>
+                <periodRef idref="p3"/>
+                <activityRef idref="ma"/>
+            </block>
+            <block>
+                <periodRef idref="p4"/>
+                <activityRef idref="ef"/>
+            </block>
+            <block>
+                <periodRef idref="p5"/>
+                <activityRef idref="ef"/>
+            </block>
+            <block>
+                <periodRef idref="p6"/>
+                <activityRef idref="rec"/>
+            </block>
+            <block>
+                <periodRef idref="p7"/>
+                <activityRef idref="in"/>
+            </block>
+            <block>
+                <periodRef idref="p8"/>
+                <activityRef idref="in"/>
+            </block>
+            <block>
+                <periodRef idref="p9"/>
+                <activityRef idref="ps"/>
+            </block>
+        </day>
+        <day id="miércoles">
+            <block>
+                <periodRef idref="p1"/>
+                <activityRef idref="ap"/>
+            </block>
+            <block>
+                <periodRef idref="p2"/>
+                <activityRef idref="ac"/>
+            </block>
+            <block>
+                <periodRef idref="p3"/>
+                <activityRef idref="co"/>
+            </block>
+            <block>
+                <periodRef idref="p4"/>
+                <activityRef idref="ma"/>
+            </block>
+            <block>
+                <periodRef idref="p5"/>
+                <activityRef idref="ma"/>
+            </block>
+            <block>
+                <periodRef idref="p6"/>
+                <activityRef idref="rec"/>
+            </block>
+            <block>
+                <periodRef idref="p7"/>
+                <activityRef idref="et"/>
+            </block>
+            <block>
+                <periodRef idref="p8"/>
+                <activityRef idref="ct"/>
+            </block>
+            <block>
+                <periodRef idref="p9"/>
+                <activityRef idref="ct"/>
+            </block>
+        </day>
+        <day id="jueves">
+            <block>
+                <periodRef idref="p1"/>
+                <activityRef idref="ap"/>
+            </block>
+            <block>
+                <periodRef idref="p2"/>
+                <activityRef idref="ma"/>
+            </block>
+            <block>
+                <periodRef idref="p3"/>
+                <activityRef idref="ma"/>
+            </block>
+            <block>
+                <periodRef idref="p4"/>
+                <activityRef idref="co"/>
+            </block>
+            <block>
+                <periodRef idref="p5"/>
+                <activityRef idref="co"/>
+            </block>
+            <block>
+                <periodRef idref="p6"/>
+                <activityRef idref="rec"/>
+            </block>
+            <block>
+                <periodRef idref="p7"/>
+                <activityRef idref="ap"/>
+            </block>
+            <block>
+                <periodRef idref="p8"/>
+                <activityRef idref="pl"/>
+            </block>
+            <block>
+                <periodRef idref="p9"/>
+                <activityRef idref="ac"/>
+            </block>
+        </day>
+        <day id="viernes">
+            <block>
+                <periodRef idref="p1"/>
+                <activityRef idref="ap"/>
+            </block>
+            <block>
+                <periodRef idref="p2"/>
+                <activityRef idref="co"/>
+            </block>
+            <block>
+                <periodRef idref="p3"/>
+                <activityRef idref="co"/>
+            </block>
+            <block>
+                <periodRef idref="p4"/>
+                <activityRef idref="rm"/>
+            </block>
+            <block>
+                <periodRef idref="p5"/>
+                <activityRef idref="rm"/>
+            </block>
+            <block>
+                <periodRef idref="p6"/>
+                <activityRef idref="rec"/>
+            </block>
+            <block>
+                <periodRef idref="p7"/>
+                <activityRef idref="rv"/>
+            </block>
+            <block>
+                <periodRef idref="p8"/>
+                <activityRef idref="et"/>
+            </block>
+            <block>
+                <periodRef idref="p9"/>
+                <activityRef idref="rel"/>
+            </block>
+        </day>
+    </days>
+    <activities>
+        <activity id="ap">ACTIVIDADES PERMANENTES</activity>
+        <activity id="co">COMUNICACION</activity>
+        <activity id="rv">RAZONAMIENTO VERBAL</activity>
+        <activity id="ma">MATEMÁTICAS</activity>
+        <activity id="rec">RECREO</activity>
+        <activity id="ps">PERSONAL SOCIAL</activity>
+        <activity id="tu">TUTORÍA</activity>
+        <activity id="ef">EDUCACIÓN FÍSICA</activity>
+        <activity id="in">INGLÉS</activity>
+        <activity id="ac">ARTE Y CULTURA</activity>
+        <activity id="et">EDUCACIÓN POR EL TRABAJO</activity>
+        <activity id="ct">CIENCIA Y TECNOLOGÍA</activity>
+        <activity id="pl">PLAN LECTOR</activity>
+        <activity id="rm">RAZONAMIENTO MATEMÁTICO</activity>
+        <activity id="rel">RELIGIÓN</activity>
+    </activities>
+    <periods>
+        <period id="p1" startH="7" startM="25" durationM="10"/>
+        <period id="p2" startH="7" startM="35" durationM="35"/>
+        <period id="p3" startH="8" startM="10" durationM="35"/>
+        <period id="p4" startH="8" startM="45" durationM="35"/>
+        <period id="p5" startH="9" startM="20" durationM="35"/>
+        <period id="p6" startH="9" startM="55" durationM="35"/>
+        <period id="p7" startH="10" startM="30" durationM="20"/>
+        <period id="p8" startH="10" startM="50" durationM="35"/>
+        <period id="p9" startH="11" startM="25" durationM="35"/>
+    </periods>
+</timetable>
