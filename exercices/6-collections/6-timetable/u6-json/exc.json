@@ -1,0 +1,252 @@
+[
+  {
+    "day" : "LUNES",
+    "periods" : [
+      {
+        "start" : "7:25 A.M",
+        "end" : "7:35 A.M",
+        "activity" : "ACTIVIDADES PERMANENTES"
+      },
+      {
+        "start" : "7:35 A.M",
+        "end" : "8:10 A.M",
+        "activity" : "COMUNICACIÓN"
+      },
+      {
+        "start" : "8:10 A.M",
+        "end" : "8:45 A.M",
+        "activity" : "COMUNICACIÓN"
+      },
+      {
+        "start" : "8:45 A.M",
+        "end" : "9:20 A.M",
+        "activity" : "RAZONAMIENTO VERBAL"
+      },
+      {
+        "start" : "9:20 A.M",
+        "end" : "9:55 A.M",
+        "activity" : "MATEMÁTICA"
+      },
+      {
+        "start" : "9:55 A.M",
+        "end" : "10:30 A.M",
+        "activity" : "RECREO"
+      },
+      {
+        "start" : "10:30 A.M",
+        "end" : "10:50 A.M",
+        "activity" : "MATEMÁTICA"
+      },
+      {
+        "start" : "10:50 A.M",
+        "end" : "11:25 A.M",
+        "activity" : "PERSONAL SOCIAL"
+      },
+      {
+        "start" : "11:25 A.M",
+        "end" : "12:00 A.M",
+        "activity" : "TUTORÍA"
+      }
+    ]
+  },
+  {
+    "day" : "MARTES",
+    "periods" : [
+      {
+        "start" : "7:25 A.M",
+        "end" : "7:35 A.M",
+        "activity" : "ACTIVIDADES PERMANENTES"
+      },
+      {
+        "start" : "7:35 A.M",
+        "end" : "8:10 A.M",
+        "activity" : "MATEMÁTICA"
+      },
+      {
+        "start" : "8:10 A.M",
+        "end" : "8:45 A.M",
+        "activity" : "MATEMÁTICA"
+      },
+      {
+        "start" : "8:45 A.M",
+        "end" : "9:20 A.M",
+        "activity" : "EDUCACIÓN FÍSICA"
+      },
+      {
+        "start" : "9:20 A.M",
+        "end" : "9:55 A.M",
+        "activity" : "EDUCACIÓN FÍSICA"
+      },
+      {
+        "start" : "9:55 A.M",
+        "end" : "10:30 A.M",
+        "activity" : "RECREO"
+      },
+      {
+        "start" : "10:30 A.M",
+        "end" : "10:50 A.M",
+        "activity" : "INGLÉS"
+      },
+      {
+        "start" : "10:50 A.M",
+        "end" : "11:25 A.M",
+        "activity" : "INGLÉS"
+      },
+      {
+        "start" : "11:25 A.M",
+        "end" : "12:00 A.M",
+        "activity" : "PERSONAL SOCIAL"
+      }
+    ]
+  },
+  {
+    "day" : "MIÉRCOLES",
+    "periods" : [
+      {
+        "start" : "7:25 A.M",
+        "end" : "7:35 A.M",
+        "activity" : "ACTIVIDADES PERMANENTES"
+      },
+      {
+        "start" : "7:35 A.M",
+        "end" : "8:10 A.M",
+        "activity" : "ARTE Y CULTURA"
+      },
+      {
+        "start" : "8:10 A.M",
+        "end" : "8:45 A.M",
+        "activity" : "COMUNICACIÓN"
+      },
+      {
+        "start" : "8:45 A.M",
+        "end" : "9:20 A.M",
+        "activity" : "MATEMÁTICA"
+      },
+      {
+        "start" : "9:20 A.M",
+        "end" : "9:55 A.M",
+        "activity" : "MATEMÁTICA"
+      },
+      {
+        "start" : "9:55 A.M",
+        "end" : "10:30 A.M",
+        "activity" : "RECREO"
+      },
+      {
+        "start" : "10:30 A.M",
+        "end" : "10:50 A.M",
+        "activity" : "EDUCACIÓN POR EL TRABAJO"
+      },
+      {
+        "start" : "10:50 A.M",
+        "end" : "11:25 A.M",
+        "activity" : "CIENCIA Y TECNOLOGÍA"
+      },
+      {
+        "start" : "11:25 A.M",
+        "end" : "12:00 A.M",
+        "activity" : "CIENCIA Y TECNOLOGÍA"
+      }
+    ]
+  },
+  {
+    "day" : "JUEVES",
+    "periods" : [
+      {
+        "start" : "7:25 A.M",
+        "end" : "7:35 A.M",
+        "activity" : "ACTIVIDADES PERMANENTES"
+      },
+      {
+        "start" : "7:35 A.M",
+        "end" : "8:10 A.M",
+        "activity" : "MATEMÁTICA"
+      },
+      {
+        "start" : "8:10 A.M",
+        "end" : "8:45 A.M",
+        "activity" : "MATEMÁTICA"
+      },
+      {
+        "start" : "8:45 A.M",
+        "end" : "9:20 A.M",
+        "activity" : "COMUNICACIÓN"
+      },
+      {
+        "start" : "9:20 A.M",
+        "end" : "9:55 A.M",
+        "activity" : "COMUNICACIÓN"
+      },
+      {
+        "start" : "9:55 A.M",
+        "end" : "10:30 A.M",
+        "activity" : "RECREO"
+      },
+      {
+        "start" : "10:30 A.M",
+        "end" : "10:50 A.M",
+        "activity" : "CINECIA Y TECNOLOGÍA"
+      },
+      {
+        "start" : "10:50 A.M",
+        "end" : "11:25 A.M",
+        "activity" : "PLAN LECTOR"
+      },
+      {
+        "start" : "11:25 A.M",
+        "end" : "12:00 A.M",
+        "activity" : "ARTE Y CULTURA"
+      }
+    ]
+  },
+  {
+    "day" : "VIERNES",
+    "periods" : [
+      {
+        "start" : "7:25 A.M",
+        "end" : "7:35 A.M",
+        "activity" : "ACTIVIDADES PERMANENTES"
+      },
+      {
+        "start" : "7:35 A.M",
+        "end" : "8:10 A.M",
+        "activity" : "COMUNICACIÓN"
+      },
+      {
+        "start" : "8:10 A.M",
+        "end" : "8:45 A.M",
+        "activity" : "COMUNICACIÓN"
+      },
+      {
+        "start" : "8:45 A.M",
+        "end" : "9:20 A.M",
+        "activity" : "RAZONAMIENTO MATEMÁTICO"
+      },
+      {
+        "start" : "9:20 A.M",
+        "end" : "9:55 A.M",
+        "activity" : "RAZONAMIENTO MATEMÁTICO"
+      },
+      {
+        "start" : "9:55 A.M",
+        "end" : "10:30 A.M",
+        "activity" : "RECREO"
+      },
+      {
+        "start" : "10:30 A.M",
+        "end" : "10:50 A.M",
+        "activity" : "RAZONAMIENTO VERBAL"
+      },
+      {
+        "start" : "10:50 A.M",
+        "end" : "11:25 A.M",
+        "activity" : "EDUCACIÓN POR EL TRABAJO"
+      },
+      {
+        "start" : "11:25 A.M",
+        "end" : "12:00 A.M",
+        "activity" : "RELIGIÓN"
+      }
+    ]
+  }
+]
