@@ -1,0 +1,14 @@
+node: me
+parents:
+  - node: father
+    parents:
+      - node: grandfather (father)
+        #add parents array
+      - node: grandmother (father)
+        #add parents array
+  - node: mother
+    parents:
+      - node: grandfather (mother)
+        #add parents array
+      - node: grandmother (mother)
+        #add parents array
