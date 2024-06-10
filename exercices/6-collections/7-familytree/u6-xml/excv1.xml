@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tree>
+    <nodes>
+        <node id="me"/>
+        <node id="father"/>
+        <node id="mother"/>
+        <node id="grandfather_father"/>
+        <node id="grandfather_mother"/>
+        <node id="grandmother_father"/>
+        <node id="grandmother_mother"/>
+        <!-- others nodes -->
+    </nodes>
+    <unions>
+        <union id="u1">
+            <member idref="father"/>
+            <member idref="mother"/>
+            <descendence idref="me"/>
+        </union>
+        <union id="u2">
+            <member idref="grandfather_father"/>
+            <member idref="grandmother_father"/>
+            <descendence idref="father"/>
+            <!-- others descendences -->
+        </union>
+        <union id="u3">
+            <member idref="grandfather_mother"/>
+            <member idref="grandmother_mother"/>
+            <descendence idref="mother"/>
+            <!-- others descendences -->
+        </union>
+        <!-- others unions -->
+    </unions>
+</tree>
