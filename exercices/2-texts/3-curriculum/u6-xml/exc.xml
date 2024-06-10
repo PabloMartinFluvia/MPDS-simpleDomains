@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cv>
+    <contact age="25">
+        <name>Michelle Torres Quiroz</name>
+        <adress>Av. Siempreviva No.17 Col.Anzures blablabla</adress>
+        <telef>55-34-45-95</telef>
+        <email>curriculum@gmail.com</email>
+    </contact>
+    <!-- Alternativa:
+    <personalData>
+		<name>Michelle</name>
+		<surname>Torres Quiroz</surname>
+		<birthday day="23" month="12" year="1999"/>
+		<adress>
+			<street>Av. Siempreviva, nº17</street>
+			<village>Col. Anzures. 04575</village>
+			<country>Mexico</country>
+		</adress>
+		<telephone>55344595</telephone>
+		<e_mail>curriculum@gmail.com</e_mail>
+	</personalData>
+    -->
+    <profile>blablabla blablabla blablabla</profile>
+    <studies>
+        <study>
+            <institution>Universidad Autónoma de México. Facultad de blabla</institution>
+            <title generationLow="2001" generationHigh="2005">blabla blabla</title>
+        </study>
+        <study>
+            <institution>Universidad Autónoma de México. Facultad de blabla</institution>
+            <title generationLow="1996" generationHigh="2000">blabla blabla</title>
+        </study>
+        <!-- Alternativa:
+        <degree start="2001" end="2005">
+			<title>Ciencias de la Comunicación</title>
+			<faculty>Ciencias de la Comunicación</faculty>
+			<university>Autónoma de México</university>
+		</degree>
+		<degree start="1996" end="2000">
+			<title>Derecho</title>
+			<faculty>Derecho</faculty>
+			<university>Autónoma de México</university>
+		</degree>
+        -->
+    </studies>
+    <experiences>
+        <experience start="2000" end="2011">
+            <job>Asesor jurídico para revista</job>
+            <countries>
+                <country>México</country>
+            </countries>
+        </experience>
+        <experience start="2000" end="2011">
+            <job>blablabla</job>
+        </experience>
+        <experience start="2008" end="2011">
+            <job>bla bla bla</job>
+        </experience>
+        <experience start="2005" end="2011">
+            <job>bla bla bla</job>
+            <countries>
+                <country>España</country>
+                <country>Estados Unidos</country>
+                <country>México</country>
+            </countries>
+        </experience>
+        <!-- Alternativa
+        <work start="2000" end="2011">
+			<charge>Asesor Jurídico</charge>
+			<company>Revista México</company>
+		</work>
+		<work start="2000" end="2011">
+			<charge>Creadora publicitaria y editora de revista y periódico</charge>
+		</work>
+		<work start="2008" end="2011">
+			<charge>Escritora de libros</charge>
+		</work>
+		<work start="2005" end="2011">
+			<charge>Creadora publicitaria de revista y periódico</charge>
+			<charge>Editora de revista y periódico</charge>
+			<country>Estados Unidos</country>
+			<country>Estados Unidos</country>
+		</work>
+        -->
+    </experiences>
+    <softSkills>
+        <softSkill>bla bla bla</softSkill>
+        <softSkill>bla bla bla</softSkill>
+    </softSkills>
+    <hardSkills>
+        <hardSkill>adobe</hardSkill>
+        <hardSkill>windows excel</hardSkill>
+        <hardSkill>blabla</hardSkill>
+    </hardSkills>
+    <courses>
+        <course>
+            <name>blablabla</name>
+            <institution>blablabla</institution>
+            <online/>
+            <year>2008</year>
+        </course>
+    </courses>
+    <languages>
+        <language name="EN" level="90%"/>
+    </languages>
+</cv>
