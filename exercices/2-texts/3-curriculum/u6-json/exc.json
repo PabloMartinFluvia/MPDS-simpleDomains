@@ -1,0 +1,76 @@
+{
+  "personalInfo" : {
+    "name" : "Michelle Torres Quiroz",
+    "age" : 25,
+    "adress" : "Av. Siempreviva No.17 Col.Anzures blablabla",
+    "telef" :"55-34-45-95",
+    "email" : "curriculum@gmail.com"
+  },
+  "profile" : "bla bla bla",
+  "studies" : [
+    {
+      "title" : "blabla bla",
+      "institution" : "blablabla",
+      "period" : "2001-2005"
+    },
+    {
+      "title" : "blabla bla",
+      "institution" : "blablabla",
+      "period" : "1996-2000"
+    }
+  ],
+  "experiences" : [
+    {
+      "position" : "blabla",
+      "sartYear" : 2000,
+      "endYear" : 2011,
+      "countries" : [
+        "México"
+      ]
+    },
+    {
+      "position" : "blabla",
+      "sartYear" : 2000,
+      "endYear" : 2011,
+      "countries" : []
+    },
+    {
+      "position" : "blabla",
+      "sartYear" : 2008,
+      "endYear" : 2011,
+      "countries" : []
+    },
+    {
+      "position" : "blabla",
+      "sartYear" : 2005,
+      "endYear" : 2011,
+      "countries" : [
+        "España",
+        "Estados Unidos",
+        "México"
+      ]
+    }
+  ],
+  "softSkills" : [
+    "blablabla",
+    "blablabla"
+  ],
+  "hardSkills" : [
+    "blablabla",
+    "blablabla"
+  ],
+  "courses" : [
+    {
+      "name" : "blablaba",
+      "institution" : "blablaba",
+      "type" : "online",
+      "year" : 2008
+    }
+  ],
+  "languages" : [
+    {
+      "language" : "ingles",
+      "level" : "90%"
+    }
+  ]
+}
