@@ -1,0 +1,40 @@
+{
+  "nodes" : [
+    "me",
+    "father",
+    "mother",
+    "grandfather_father",
+    "grandfather_mother",
+    "grandmother_father",
+    "grandmother_mother"
+  ],
+  "unions" : [
+    {
+      "union" : [
+        "father",
+        "mother"
+      ],
+      "descendences" : [
+        "me"
+      ]
+    },
+    {
+      "union" : [
+        "grandfather_father",
+        "grandmother_father"
+      ],
+      "descendences" : [
+        "father"
+      ]
+    },
+    {
+      "union" : [
+        "grandfather_mother",
+        "grandmother_father"
+      ],
+      "descendences" : [
+        "mother"
+      ]
+    }
+  ]
+}
