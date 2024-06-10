@@ -1,0 +1,27 @@
+{
+  "node" : "me",
+  "trees" : [
+    {
+      "node" : "father",
+      "trees" : [
+        {
+          "node" : "grandfather (father)"
+        },
+        {
+          "node" : "grandmother (mother)"
+        }
+      ]
+    },
+    {
+      "node" : "mother",
+      "trees" : [
+        {
+          "node" : "grandfather (mother)"
+        },
+        {
+          "node" : "grandmother (mother)"
+        }
+      ]
+    }
+  ]
+}
