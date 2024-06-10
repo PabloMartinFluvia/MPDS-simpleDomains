@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ancestorsTree>
+    <node id="me" name="me">
+        <father idref="f"/>
+        <mother idref="m"/>
+    </node>
+    <node id="f" name="father">
+        <father idref="ff"/>
+        <mother idref="mf"/>
+    </node>
+    <node id="m" name="mother">
+        <father idref="fm"/>
+        <mother idref="mm"/>
+    </node>
+    <node id="ff" name="grandfather (father)">
+        <!-- add refs when new node added -->
+    </node>
+    <node id="mf" name="grandmother (father)">
+        <!-- add refs when new node added -->
+    </node>
+    <node id="fm" name="grandfather (mother)">
+        <!-- add refs when new node added -->
+    </node>
+    <node id="mm" name="grandmother (mother)">
+        <!-- add refs when new node added -->
+    </node>
+</ancestorsTree>
